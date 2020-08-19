@@ -1,5 +1,5 @@
 # Clean all videos in your profile VK!
-WARNING! ALL YOUR VIDEOS IN PROFILE VK WILL BE DELETED!
+WARNING! ALL YOUR VIDEOS IN PROFILE VK WILL BE DELETED!\n
 Installing and using:
 
 1 make
