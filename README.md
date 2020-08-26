@@ -4,5 +4,5 @@ Installing and using:
 
 1 make
 
-2 ./clean_videos_vk paste_your_token_here
+2 ./clean_videos_vk paste_your_token_here paste_your_id_vk_profile_here
 
