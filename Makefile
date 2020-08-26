@@ -10,7 +10,7 @@ $(OUT):
 	cd cpr; mkdir build
 	@echo "Created cpr/build/ directory"
 	cmake -S cpr/ -B cpr/build
-	cd cpr/build/; make; sudo make
+	cd cpr/build/; make; sudo make install
 	@echo "Builded cpr library"
 	@echo "Set reference to /usr/local/lib/"
 	sudo ln -s /usr/local/lib64/libcpr.so.1 /usr/local/lib/libcpr.so.1 || true
